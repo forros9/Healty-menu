@@ -1,6 +1,6 @@
 {
-  "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
+  "framework": null,
+  "rootDirectory": "projek-p5",
+  "cleanUrls": true
 }
 
